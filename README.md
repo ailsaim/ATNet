@@ -33,6 +33,8 @@ The mask images test data of the Composition-1k matting dataset: data/mask_test;
 The combined test dataset: data/merged_test;
 
 ## Train model
+### The compiled model path:
+models/ATNet-0.0451.hdf5
 ### Train the encoder-decoder network:
 run: $python train_encoder_decoder.py
 ### Train the refinement network:
