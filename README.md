@@ -1,4 +1,4 @@
-# Attention Transfer Network For Nature Image Matting 
+# Attention Transfer Network for Nature Image Matting 
 This is a keras implementation of ATNet.
 
 ## Abstract
