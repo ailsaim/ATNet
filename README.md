@@ -17,13 +17,19 @@ Go to [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) to download:
 ## data preprocessing
 ### Store training data and test data according to the following path:
 The foreground images in training data of the Composition-1k matting dataset: data/fg;
+
 The background images in training data of the Composition-1k matting dataset: data/bg;
+
 The mask images in training data of the Composition-1k matting dataset: data/mask;
 
 
+
 The foreground images in test data of the Composition-1k matting dataset: data/fg_test;
+
 The background images in test data of the Composition-1k matting dataset: data/bg_test;
+
 The mask images test data of the Composition-1k matting dataset: data/mask_test;
+
 The combined test dataset: data/merged_test;
 
 ## Train model
